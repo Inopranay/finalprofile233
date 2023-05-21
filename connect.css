@@ -1,0 +1,332 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.ellipse-icon,
+.instance-child8 {
+  position: absolute;
+  height: 93.94%;
+  width: 2.48%;
+  top: 6.06%;
+  right: 97.52%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child8 {
+  top: 0;
+  right: 97.12%;
+  bottom: 6.06%;
+  left: 0.4%;
+}
+.lets-colloborate2,
+.pranay2 {
+  position: absolute;
+  font-size: var(--font-size-xs);
+  text-align: left;
+  display: inline-block;
+}
+.pranay2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 12.12%;
+  left: 3.85%;
+  line-height: 180.3%;
+  font-weight: 800;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-200);
+}
+.lets-colloborate2 {
+  margin: 0;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gray-100);
+}
+.lets-colloborate-container,
+.profile1,
+.projects1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.lets-colloborate-container {
+  top: 9px;
+  left: 381px;
+  width: 200px;
+  height: 15px;
+  max-width: 200px;
+}
+.profile1,
+.projects1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+}
+.profile1:hover {
+  color: var(--color-dimgray-100);
+}
+.projects1 {
+  left: 53.4%;
+}
+.projects1:hover {
+  color: rgba(113, 113, 113, 0.9);
+}
+.profile-group {
+  position: absolute;
+  top: 9px;
+  left: 774px;
+  width: 103px;
+  height: 15px;
+}
+.in1 {
+  text-decoration: underline;
+  left: 0;
+}
+.be1,
+.dr1,
+.in1 {
+  position: absolute;
+  top: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.dr1 {
+  text-decoration: underline;
+  left: 36.07%;
+}
+.be1 {
+  left: 75.41%;
+}
+.ellipse-group,
+.in-group {
+  position: absolute;
+  top: 9px;
+  left: 1187px;
+  width: 61px;
+  height: 15px;
+}
+.ellipse-group {
+  top: 58px;
+  left: 96px;
+  width: 1248px;
+  height: 33px;
+}
+.as-a-freelancer {
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: inline-block;
+}
+.as-a-freelancer-im-available-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.33%;
+  width: 15.63%;
+  top: 45.78%;
+  right: 64.79%;
+  bottom: 50.89%;
+  left: 19.58%;
+  max-width: 200px;
+}
+.back-to-profile,
+.h6 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-white);
+  text-align: left;
+}
+.h6 {
+  margin: 0;
+}
+.back-to-profile {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: inline-block;
+  width: 95px;
+  flex-shrink: 0;
+}
+.group {
+  position: absolute;
+  height: 1.56%;
+  width: 89.17%;
+  top: 89.78%;
+  right: 5.45%;
+  bottom: 8.67%;
+  left: 5.38%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-534xl);
+}
+.email1,
+.get-in-touch {
+  margin: 0;
+  position: absolute;
+  font-family: var(--font-pangea-text-trial);
+  display: inline-block;
+}
+.get-in-touch {
+  width: 48.61%;
+  top: 36.22%;
+  left: 8.13%;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.03em;
+  line-height: 130%;
+  font-weight: 700;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.email1 {
+  width: 14.63%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.rectangle-textarea {
+  border: 1px solid var(--color-gray-300);
+  background-color: #101010;
+  position: absolute;
+  height: 48.15%;
+  width: 100%;
+  top: 51.85%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+}
+.rectangle-textarea:active,
+.rectangle-textarea:hover {
+  background-color: var(--color-gray-300);
+}
+.email-parent {
+  position: relative;
+  width: 294px;
+  height: 54px;
+}
+.message {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.rectangle-input {
+  border: 1px solid var(--color-gray-300);
+  background-color: var(--color-gray-300);
+  position: absolute;
+  height: 76.27%;
+  width: 100%;
+  top: 23.73%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+}
+.message-parent {
+  position: relative;
+  width: 294px;
+  height: 118px;
+}
+.component-child5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #fdfdfd;
+}
+.submit {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 16.33%;
+  top: 23.08%;
+  left: 41.84%;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-parent5 {
+  position: relative;
+  border-radius: var(--br-9xs);
+  width: 294px;
+  height: 26px;
+}
+.component-parent,
+.connect {
+  background-color: var(--color-gray-400);
+  overflow: hidden;
+}
+.component-parent {
+  position: absolute;
+  top: 294px;
+  left: 827px;
+  display: flex;
+  flex-direction: column;
+  padding: 47px 43px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.connect {
+  position: relative;
+  width: 100%;
+  height: 900px;
+  opacity: 0;
+}
+.connect.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}

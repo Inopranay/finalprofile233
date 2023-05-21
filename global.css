@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-pangea-text-trial: "Pangea Text Trial";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-4xs: 9px;
+  --font-size-xs: 12px;
+  --font-size-31xl: 50px;
+  --font-size-2xs: 11px;
+  --font-size-11xl: 30px;
+  --font-size-20xl: 39px;
+
+  /* Colors */
+  --color-gray-400: #010101;
+  --color-gray-100: rgba(255, 255, 255, 0.9);
+  --color-gray-200: rgba(254, 254, 254, 0.9);
+  --color-gray-300: rgba(255, 255, 255, 0.95);
+  --color-dimgray-100: #717171;
+  --color-dimgray-200: #535353;
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-534xl: 553px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+}
